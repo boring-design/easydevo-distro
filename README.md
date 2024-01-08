@@ -6,7 +6,7 @@
 
 
 
-EasyDevo is a tool specifically designed for macOS developers, adept at efficiently clearing out redundant dependencies and files accumulated during coding. It's not just about cleanup; EasyDevo also streamlines project management and offers insights into your historical contributions. Plus, its macOS performance monitoring feature keeps you in the know about your development device's capabilities.
+EasyDevo is a tool specifically designed for developers, adept at efficiently clearing out redundant dependencies and files accumulated during coding. It's not just about cleanup; EasyDevo also streamlines project management and offers insights into your historical contributions. Plus, its macOS performance monitoring feature keeps you in the know about your development device's capabilities.
 
 As the inaugural product from our small studio, EasyDevo may not be flawless yet, but we're committed to continual enhancements for an exceptional user experience. 
 
