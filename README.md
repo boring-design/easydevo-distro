@@ -1,8 +1,7 @@
 # EasyDevo
 
 
-<img width="908" alt="github_images" src="https://github.com/boring-design/EasyDevo-Distro/assets/1811819/c9272951-6a8e-4f78-924f-f73f65b7e5c1">
-
+<img width="1199" alt="333" src="https://github.com/boring-design/EasyDevo-Distro/assets/1811819/165c509c-4f97-4826-a806-4af2f8e3cb2a">
 
 
 
